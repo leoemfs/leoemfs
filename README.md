@@ -1,4 +1,4 @@
-### Olá! Eu sou o Leonardo Emanuel ✌️
+### Olá! Eu sou o Leo ✌️
 
 <br>
 
