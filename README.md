@@ -6,46 +6,8 @@
             src="https://github-readme-stats.vercel.app/api?username=leoemfs&show_icons=true&theme=transparent&count_private=true">
         <img height="180em" width="45%"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoemfs&layout=compact&theme=transparent&count_private=true">
-    </div>
-
-    <br>
-
-    <div align="center">
-        <img align="center" alt="C" height="30" width="40"
-            src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg">
-        <img align="center" alt="Csharp" height="30" width="40"
-            src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg">
-        <img align="center" alt="HTML5" height="30" width="40"
-            src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
-        <img align="center" alt="CSS3" height="30" width="40"
-            src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
-        <img align="center" alt="Bootstrap" height="30" width="40"
-            src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
-        <img align="center" alt="Git" height="30" width="40"
-            src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">
-        <img align="center" alt="Java" height="30" width="40"
-            src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">
-        <img align="center" alt="Mysql" height="30" width="40"
-            src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-        <img align="center" alt="PHP" height="30" width="40"
-            src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
-        <img align="center" alt="JavaScript" height="30" width="40"
-            src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
-        <img align="center" alt="NodeJs" height="30" width="40"
-            src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
-        <img align="center" alt="React" height="30" width="40"
-            src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-        <img align="center" alt="Python" height="30" width="40"
-            src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-        <img align="center" alt="Numpy" height="30" width="40"
-            src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg">
-        <img align="center" alt="Pandas" height="30" width="40"
-            src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
-        <img align="center" alt="OpenCV" height="30" width="40"
-            src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg">
-    </div>
-    <br>
-
+</div>
+<br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leoemfs/)
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leoemfs&show_icons=true&theme=radical)-->
