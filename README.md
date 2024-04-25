@@ -8,7 +8,7 @@
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoemfs&layout=compact&theme=transparent&count_private=true">
 </div>
 <br>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leoemfs/)
+![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leoemfs/)
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leoemfs&show_icons=true&theme=radical)-->
 
