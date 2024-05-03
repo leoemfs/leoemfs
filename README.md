@@ -1,4 +1,4 @@
-<h1>👋 &nbsp;Olá, eu sou o Leo, um  futuro desenvolvedor web full stack!</h1>
+<h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">&nbsp;Olá, eu sou o Leo, um  futuro desenvolvedor web full stack!</h1>
 
 <p align="center">
 <a href="https://instagram.com/leoemfs.dev"><img src="https://img.shields.io/badge/-@leoemfs.dev_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
